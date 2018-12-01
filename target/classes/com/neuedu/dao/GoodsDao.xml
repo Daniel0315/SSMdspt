@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.neuedu.dao.GoodsDao">
+    <select id="listGname" resultType="Goods">
+        select * from goods where ifdelete=0
+    </select>
+
+    <insert id="insertGoods">
+        insert into goods (gname,gprice,grepertory,gsalesvolume,gstandard,gimg,gremarks,cid) values (#{gname},#{gprice},#{grepertory},#{gsalesvolume}, #{gstandard},#{gimg},#{gremarks},#{cid})
+    </insert>
+
+    <update id="deletegoods">
+        update goods set ifdelete=1 where gid=#{gid}
+    </update>
+
+    <select id="findByGid" resultType="Goods">
+        select * from goods where gid=#{gid}
+    </select>
+
+    <update id="updateGoodsByGid">
+        update goods
+        <set>
+            <if test="gname!=null">
+                gname=#{gname},
+            </if>
+            <if test="gprice!=null">
+                gprice=#{gprice},
+            </if>
+            <if test="grepertory!=null">
+                grepertory=#{grepertory},
+            </if>
+            <if test="gsalesvolume!=null">
+                gsalesvolume=#{gsalesvolume},
+            </if>
+            <if test="gstandard!=null">
+                gstandard=#{gstandard},
+            </if>
+            <if test="gimg!=null">
+                gimg=#{gimg},
+            </if>
+            <if test="gremarks!=null">
+                gremarks=#{gremarks},
+            </if>
+            <if test="cid!=null">
+                cid=#{cid},
+            </if>
+        </set>
+        where gid=#{gid}
+    </update>
+
+    <select id="selectGoodsByGid" resultType="int">
+        select count(*) from goods where gid=#{gid}
+    </select>
+
+    <select id="searchByGname" resultType="Goods">
+        select * from goods where gname like concat("%",#{gname},"%")
+    </select>
+</mapper>
