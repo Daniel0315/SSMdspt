@@ -6,7 +6,243 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="37fea8fc-50f4-4e37-bf46-0db2480b7737" name="Default" comment="" />
+    <list default="true" id="37fea8fc-50f4-4e37-bf46-0db2480b7737" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/view/home1.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/view/shophome.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/images/-0-saturn_solar.jpg_220x220.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/images/0-item_pic.jpg_220x220.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/images/01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/images/01_mid.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/images/01_small.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/images/02.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/images/02_mid.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/images/02_small.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/images/03.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/images/03_mid.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/images/03_small.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/images/1-item_pic.jpg_220x220.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/images/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/images/10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/images/11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/images/111.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/images/1_160x160.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/images/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/images/2016.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/images/222.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/images/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/images/333.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/images/3CoOkxrFOP.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/images/3ss.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/images/4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/images/5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/images/556.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/images/557.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/images/559.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/images/566.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/images/566fda5cN4b8a1675.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/images/6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/images/62988.jpg_80x80.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/images/65.jpg_120x120xz.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/images/666.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/images/7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/images/72h.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/images/8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/images/88.jpg_120x120xz.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/images/9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/images/Balance.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/images/BxJk6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/images/EZA27501.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/images/Hxcag60.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/images/O1CN011YvuzLZBkf8rfXx-619123122.jpg_60x60q90.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/images/O1CN012I73JAyBPMH6jYh_!!3252039238.jpg_60x60q90.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/images/T13iv.XiFdXXa94Hfd-32-32.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/images/TB102.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/images/TB1SSK7JpXXXXXCXXXXXXXXXXXX-800-600.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/images/TB1_pic.jpg_200x200.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/images/TB2K_eyX4HI8KJjy1zbXXaxdpXa_!!619123122.jpg_60x60q90.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/images/TB2RkyEzntYBeNjy1XdXXXXyVXa_!!2213348906.jpg_60x60q90.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/images/TB2Vua5Db1YBuNjSszeXXablFXa_!!619123122.jpg_430x430q90.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/images/TJ.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/images/TJ2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/images/YXARdXxj5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/images/act1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/images/act2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/images/act3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/images/activity.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/images/activity1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/images/activity2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/images/activity3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/images/addbg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/images/addicon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/images/addicon1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/images/addicon2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/images/advTip.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/images/bamboo.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/images/bamboo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/images/bankjh.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/images/bankns.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/images/blog01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/images/blog02.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/images/blog03.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/images/blog04.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/images/blog05.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/images/blog06.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/images/blog07.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/images/blog08.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/images/blog09.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/images/bonus.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/images/browse1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/images/cake.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/images/cake.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/images/candy.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/images/candy.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/images/cardbg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/images/cardbg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/images/cardtype.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/images/checkbox.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/images/chocolate.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/images/chocolate.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/images/chongzhi.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/images/clockbg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/images/close.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/images/combo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/images/combo1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/images/combo2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/images/combo3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/images/comment.jpg_400x400.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/images/comment.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/images/cookies.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/images/cookies.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/images/coupon-bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/images/coupon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/images/coupon2015.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/images/coupon20150805.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/images/couponli.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/images/cp.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/images/cp2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/images/day-to.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/images/extra.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/images/fish.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/images/fish.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/images/getAvatar.do.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/images/gift_intro_bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/images/gift_stamp_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/images/gift_stamp_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/images/gift_stamp_21.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/images/gift_stamp_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/images/gift_stamp_31.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/images/header-bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/images/header-bg1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/images/heart.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/images/huismall.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/images/hwbn40x40.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/images/ibar_sprites.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/images/icon-sale.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/images/icon_bar.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/images/icon_bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/images/icon_progress_24.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/images/iconbig.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/images/iconfont-bad.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/images/iconfont-badon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/images/iconfont-evaluate.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/images/iconfont-good.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/images/iconfont-middle.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/images/iconsmall.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/images/iconsmall0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/images/iconsmall1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/images/iconsmall2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/images/iconsmall3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/images/image.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/images/imgBox.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/images/imgsearch1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/images/index_ico_png32.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/images/item-pic.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/images/kouhong.jpg_80x80.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/images/kuaidi.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/images/list1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/images/listsmall1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/images/loading.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/images/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/images/logo1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/images/logobig1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/images/logobig2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/images/mansmall.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/images/mask.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/images/meat.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/images/meat.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/images/moneysmall.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/images/mygift_bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/images/navce.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/images/navsmall.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/images/no-img_mid_.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/images/nut.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/images/nut.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/images/package.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/images/package.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/images/pay.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/images/peraddbg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/images/peraddress.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/images/peraddressbg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/images/pig.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/images/profit.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/images/receive.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/images/refund.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/images/return-process-cd.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/images/row1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/images/row2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/images/row3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/images/row4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/images/safe.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/images/safe_bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/images/sale-t.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/images/sale-t_clock.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/images/sale1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/images/sale2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/images/sale3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/images/scoll1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/images/scoll2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/images/send.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/images/shopping.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/images/side.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/images/songzi.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/images/sprite.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/images/sys_item_selected.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/images/tea.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/images/tea.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/images/tj.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/images/tj1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/images/tj2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/images/tw1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/images/tw2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/images/tw3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/images/tw4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/images/tw5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/images/tw6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/images/tw7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/images/u5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/images/u6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/images/wallet.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/images/wangyin.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/images/wdsc.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/images/weixin_code_145.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/images/weizhifu.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/images/youzi.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/images/zhifubao.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/images/图标.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/neuedu/controller/ShopController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/neuedu/controller/ShopController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/view/login.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/view/login.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/index.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/static/css/hmstyle.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/static/css/hmstyle.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/neuedu/controller/ShopController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/neuedu/controller/ShopController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/neuedu/controller/UserController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/neuedu/controller/UserController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test/WEB-INF/classes/com/neuedu/controller/ShopController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test/WEB-INF/classes/com/neuedu/controller/ShopController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test/WEB-INF/classes/com/neuedu/controller/UserController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test/WEB-INF/classes/com/neuedu/controller/UserController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test/WEB-INF/view/login.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/target/test/WEB-INF/view/login.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test/index.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test/static/css/hmstyle.css" beforeDir="false" afterPath="$PROJECT_DIR$/target/test/static/css/hmstyle.css" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -54,78 +290,7 @@
     <select />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="register.jsp" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/view/register.jsp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="623">
-              <caret line="60" column="69" selection-start-line="60" selection-start-column="61" selection-end-line="60" selection-end-column="69" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="UserController.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/neuedu/controller/UserController.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="242">
-              <caret line="161" column="9" selection-start-line="161" selection-start-column="9" selection-end-line="161" selection-end-column="9" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="UserServiceImpl.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/neuedu/service/impl/UserServiceImpl.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="116">
-              <caret line="97" selection-start-line="97" selection-end-line="97" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#2736#2737#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Result.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/neuedu/vo/Result.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="130">
-              <caret line="5" column="22" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="22" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="login.jsp" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/view/login.jsp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="123">
-              <caret line="32" column="35" selection-start-line="32" selection-start-column="35" selection-end-line="32" selection-end-column="35" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="UserDao.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/neuedu/dao/UserDao.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2106">
-              <caret line="81" column="28" selection-start-line="76" selection-start-column="4" selection-end-line="81" selection-end-column="28" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="UserDao.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/resources/com/neuedu/dao/UserDao.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="115">
-              <caret line="57" column="57" selection-start-line="57" selection-start-column="57" selection-end-line="57" selection-end-column="57" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -134,17 +299,17 @@
         <option value="Interface" />
         <option value="JUnit4 Test Class" />
         <option value="Enum" />
-        <option value="Jsp File" />
         <option value="Class" />
+        <option value="Jsp File" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/test/java/com/neuedu/service/impl/TypeServiceImplTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/neuedu/service/impl/TypeServiceImpl.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/neuedu/dto/GoodsDyo.java" />
         <option value="$PROJECT_DIR$/src/main/resources/spring/spring-web.xml" />
         <option value="$PROJECT_DIR$/src/main/java/com/neuedu/dto/GoodsDto.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/neuedu/utils/ImgUtils.java" />
@@ -173,7 +338,6 @@
         <option value="$PROJECT_DIR$/src/main/java/com/neuedu/service/impl/AuthorityServiceImpl.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/neuedu/service/AuthorityService.java" />
         <option value="$PROJECT_DIR$/src/main/resources/com/neuedu/dao/AuthorityDao.xml" />
-        <option value="$PROJECT_DIR$/src/main/java/com/neuedu/controller/ShopController.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/neuedu/controller/StaffController.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/neuedu/controller/OrderController.java" />
         <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/view/order.jsp" />
@@ -191,8 +355,12 @@
         <option value="$PROJECT_DIR$/src/main/java/com/neuedu/service/impl/UserServiceImpl.java" />
         <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/view/register.jsp" />
         <option value="$PROJECT_DIR$/src/main/resources/com/neuedu/dao/UserDao.xml" />
-        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/view/login.jsp" />
         <option value="$PROJECT_DIR$/src/main/java/com/neuedu/controller/UserController.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/view/login.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/static/css/hmstyle.css" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/view/shophome.jsp" />
+        <option value="$PROJECT_DIR$/src/main/java/com/neuedu/controller/ShopController.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/view/home1.jsp" />
       </list>
     </option>
   </component>
@@ -226,13 +394,15 @@
     <option name="width" value="1030" />
     <option name="height" value="698" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <hideEmptyPackages ProjectPane="true" />
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -242,14 +412,39 @@
             </path>
             <path>
               <item name="test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="neuedu" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="test" type="b2602c69:ProjectViewProjectNode" />
               <item name="Scratches and Consoles" type="1a2a3e82:ScratchProjectViewPane$MyProjectNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="AndroidView" />
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -271,6 +466,12 @@
     <key name="CreateTestDialog.RecentsKey">
       <recent name="com.neuedu.service.impl" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Workspace-IDEA\test\src\main\resources" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="com.neuedu.utils" />
     </key>
@@ -280,12 +481,6 @@
       <recent name="D:\Workspace-IDEA\test\src\main\webapp\static\js" />
       <recent name="D:\Workspace-IDEA\test\src\main\webapp\static\css" />
       <recent name="D:\Workspace-IDEA\test\src\main\webapp\static" />
-    </key>
-    <key name="CreateTestDialog.Recents.Supers">
-      <recent name="" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\Workspace-IDEA\test\src\main\resources" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -572,7 +767,8 @@
       <workItem from="1543461968019" duration="7178000" />
       <workItem from="1543474456098" duration="15327000" />
       <workItem from="1543553684750" duration="13071000" />
-      <workItem from="1543626248071" duration="5076000" />
+      <workItem from="1543626248071" duration="15888000" />
+      <workItem from="1543652977148" duration="522000" />
     </task>
     <servers />
   </component>
@@ -609,10 +805,10 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="152434000" />
+    <option name="totallyTimeSpent" value="163768000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="754" extended-state="7" />
+    <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="Event Log" order="15" sideWeight="0.5014641" side_tool="true" weight="0.5101721" />
@@ -627,16 +823,15 @@
       <window_info id="UI Designer" order="4" />
       <window_info anchor="bottom" id="Debug" order="4" weight="0.39906102" />
       <window_info anchor="bottom" id="TODO" order="7" />
-      <window_info anchor="bottom" id="Messages" order="11" weight="0.32394367" />
       <window_info anchor="right" id="Palette&#9;" order="6" />
       <window_info id="Image Layers" order="3" />
       <window_info anchor="bottom" id="Java Enterprise" order="12" />
       <window_info anchor="right" id="Capture Analysis" order="4" />
-      <window_info anchor="bottom" id="Version Control" order="14" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="3" sideWeight="0.49853587" visible="true" weight="0.15492958" />
+      <window_info anchor="bottom" id="Version Control" order="14" />
+      <window_info anchor="bottom" id="Run" order="3" sideWeight="0.49853587" weight="0.09874608" />
       <window_info anchor="bottom" id="Spring" order="9" />
       <window_info anchor="bottom" id="Terminal" order="10" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20131771" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.30966324" />
       <window_info id="Web" order="6" side_tool="true" />
       <window_info anchor="right" id="Theme Preview" order="7" />
       <window_info id="Favorites" order="5" side_tool="true" />
@@ -644,6 +839,7 @@
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Database Console" order="0" weight="0.3286385" />
       <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.32394367" />
       <window_info anchor="bottom" id="Message" order="1" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="2" />
@@ -656,41 +852,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/util/Set.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="84" column="17" selection-start-line="84" selection-start-column="17" selection-end-line="84" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/lang/Integer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="51" column="19" selection-start-line="51" selection-start-column="19" selection-end-line="51" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/lang/String.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="110" column="19" selection-start-line="110" selection-start-column="19" selection-end-line="110" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/neuedu/service/impl/GoodsServiceImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="692">
-          <caret line="64" column="41" lean-forward="true" selection-start-line="64" selection-start-column="41" selection-end-line="64" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/neuedu/dto/GoodsDto.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="104">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/webapp/static/css/addstyle.css">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -816,13 +977,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/neuedu/controller/ShopController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="546">
-          <caret line="32" column="13" selection-start-line="32" selection-start-column="13" selection-end-line="32" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/4.3.18.RELEASE/spring-web-4.3.18.RELEASE.jar!/org/springframework/web/bind/annotation/SessionAttribute.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="364">
@@ -861,31 +1015,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/view/order.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="78">
-          <caret line="35" column="63" lean-forward="true" selection-start-line="35" selection-start-column="63" selection-end-line="35" selection-end-column="63" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/view/home.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1767">
-          <caret line="91" column="62" selection-start-line="91" selection-start-column="62" selection-end-line="91" selection-end-column="62" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/view/user.jsp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="81">
           <caret line="35" column="33" selection-start-line="35" selection-start-column="33" selection-end-line="35" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/view/goods.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="130">
-          <caret line="34" column="8" lean-forward="true" selection-start-line="34" selection-start-column="8" selection-end-line="34" selection-end-column="8" />
         </state>
       </provider>
     </entry>
@@ -931,28 +1064,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/neuedu/dao/UserDao.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2106">
-          <caret line="81" column="28" selection-start-line="76" selection-start-column="4" selection-end-line="81" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/com/neuedu/dao/UserDao.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="115">
-          <caret line="57" column="57" selection-start-line="57" selection-start-column="57" selection-end-line="57" selection-end-column="57" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/neuedu/service/impl/UserServiceImpl.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="116">
           <caret line="97" selection-start-line="97" selection-end-line="97" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#2736#2737#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -963,19 +1078,104 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/view/login.jsp">
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/view/home.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="123">
-          <caret line="32" column="35" selection-start-line="32" selection-start-column="35" selection-end-line="32" selection-end-column="35" />
+        <state relative-caret-position="1709">
+          <caret line="91" column="62" selection-start-line="91" selection-start-column="62" selection-end-line="91" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/neuedu/dao/UserDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="229">
+          <caret line="79" column="14" lean-forward="true" selection-start-line="79" selection-start-column="14" selection-end-line="79" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/com/neuedu/dao/UserDao.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="57" column="57" selection-start-line="57" selection-start-column="57" selection-end-line="57" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/view/order.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="78">
+          <caret line="35" column="63" lean-forward="true" selection-start-line="35" selection-start-column="63" selection-end-line="35" selection-end-column="63" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/neuedu/controller/UserController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
+        <state relative-caret-position="461">
           <caret line="161" column="9" selection-start-line="161" selection-start-column="9" selection-end-line="161" selection-end-column="9" />
           <folding>
             <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/static/css/hmstyle.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2964">
+          <caret line="93" column="64" selection-start-line="93" selection-start-column="64" selection-end-line="93" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/neuedu/dao/GoodsDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="12" column="24" selection-start-line="12" selection-start-column="24" selection-end-line="12" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/view/shophome.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="27" column="37" lean-forward="true" selection-start-line="27" selection-start-column="37" selection-end-line="27" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/view/goods.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="494">
+          <caret line="87" column="71" selection-start-line="87" selection-start-column="56" selection-end-line="87" selection-end-column="71" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/neuedu/dao/TypeDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="104">
+          <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/view/login.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="395">
+          <caret line="87" column="10" lean-forward="true" selection-start-line="67" selection-end-line="87" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/view/home1.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="461">
+          <caret line="1173" column="62" selection-start-line="1173" selection-start-column="52" selection-end-line="1173" selection-end-column="62" />
+          <folding>
+            <element signature="n#style#0;n#i#1;n#div#0;n#div#1;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/neuedu/controller/ShopController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="26" column="21" selection-start-line="26" selection-start-column="21" selection-end-line="26" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#750#751#0" expanded="true" />
+            <element signature="e#774#775#0" expanded="true" />
           </folding>
         </state>
       </provider>
