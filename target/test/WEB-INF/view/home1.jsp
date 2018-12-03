@@ -26,14 +26,14 @@
         <ul class="message-l">
             <div class="topMessage">
                 <div class="menu-hd">
-                    <a href="#" target="_top" class="h">亲，请登录</a>
-                    <a href="#" target="_top">免费注册</a>
+                    <a href="/user/loginview" target="_top" class="h">亲，请登录</a>
+                    <a href="/user/registerview" target="_top">免费注册</a>
                 </div>
             </div>
         </ul>
         <ul class="message-r">
             <div class="topMessage home">
-                <div class="menu-hd"><a href="#" target="_top" class="h">商城首页</a></div>
+                <div class="menu-hd"><a href="/shop/home" target="_top" class="h">商城首页</a></div>
             </div>
             <div class="topMessage my-shangcheng">
                 <div class="menu-hd MyShangcheng"><a href="#" target="_top"><i class="am-icon-user am-icon-fw"></i>个人中心</a></div>
@@ -41,9 +41,8 @@
             <div class="topMessage mini-cart">
                 <div class="menu-hd"><a id="mc-menu-hd" href="#" target="_top"><i class="am-icon-shopping-cart  am-icon-fw"></i><span>购物车</span><strong id="J_MiniCartNum" class="h">0</strong></a></div>
             </div>
-            <div class="topMessage favorite">
-                <div class="menu-hd"><a href="#" target="_top"><i class="am-icon-heart am-icon-fw"></i><span>收藏夹</span></a></div>
         </ul>
+
     </div>
 
     <!--悬浮搜索框-->
@@ -691,8 +690,7 @@
                     </a></li>
                     <li class="title-first"><a target="_blank" href="#">
                         <span>[公告]</span>商城与广州市签署战略合作协议
-                        <img src="../images/TJ.jpg"></img>
-                        <p>XXXXXXXXXXXXXXXXXX</p>
+                        <img src="/static/images/TJ.jpg">
                     </a></li>
 
                     <div class="mod-vip">
@@ -706,14 +704,8 @@
                             </em>
                         </div>
                         <div class="member-logout">
-                            <a class="am-btn-warning btn" href="login.html">登录</a>
-                            <a class="am-btn-warning btn" href="register.html">注册</a>
-                        </div>
-                        <div class="member-login">
-                            <a href="#"><strong>0</strong>待收货</a>
-                            <a href="#"><strong>0</strong>待发货</a>
-                            <a href="#"><strong>0</strong>待付款</a>
-                            <a href="#"><strong>0</strong>待评价</a>
+                            <a class="am-btn-warning btn" href="/user/loginview">登录</a>
+                            <a class="am-btn-warning btn" href="/user/registerview">注册</a>
                         </div>
                         <div class="clear"></div>
                     </div>
